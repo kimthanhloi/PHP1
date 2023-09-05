@@ -1,0 +1,96 @@
+.main{
+    margin-top: 80px;
+}
+.login_admin{
+    text-align: right;
+    margin: 10px 0;
+    
+}
+.btn-login{
+    width: 12%;
+}
+.main_login{
+    width: 100%;
+    
+   
+    width: 100%;
+    max-width: 100%;
+    min-height: 700px;
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #0093E9;
+    background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+    color: white;
+}
+#offcanvasNavbar{
+    color: white;
+    background-color: #343a40;
+}
+.nav-link{
+    display: inline-block !important;
+    color: white !important;
+}
+.navbar-brand>img{
+    width: 117px;
+    height: 50px;
+}
+.offcanvas-header>img{
+    width: 33px;
+    height: 33px;
+    border-radius: 50%;
+}
+.nav_left{
+    display: flex;
+    align-items: center;
+}
+.form_serach>button{
+    height: 38px;
+}
+.nav_right>a{
+    color: rgba(0,0,0,.7);
+    margin-right: 15px;
+    text-decoration: none;
+}
+.offcanvas-end{
+    width: 335px;
+}
+.btn-serachcustormer{
+    position: absolute;
+    right: 7px;
+    background-color: #98a4b0;
+}
+.nav_center{
+    position: relative;
+    
+}
+.nav_main {
+    background-color: #263544;
+    color: white;
+}
+/* login */
+.main_login {
+    padding: 60px;
+}
+.img_product{
+    width: 150px;
+    max-width: 100%;
+}
+.paginnation{
+    justify-content: end;
+    display: flex;
+}
+
+
+.paginnation>li{
+    list-style-type: none;
+    padding: 0 12px;
+    margin: 0 10px;
+    border: 1px solid black;
+    cursor: pointer;
+}
+.paginnation>li>a{
+    color: black;
+    text-decoration: none;
+}
